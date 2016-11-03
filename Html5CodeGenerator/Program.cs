@@ -16,7 +16,7 @@ namespace Html5CodeGenerator
 
         static void Main(string[] args)
         {
-            new Program().MainImpl(args);
+            new Program().MainImpl(args);        
         }
 
         void MainImpl(string[] args)
